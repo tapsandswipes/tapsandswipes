@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm a software engineer currently working on helping companies to convert their ideas into iOS apps.
+
+I started with the first iOS SDK back in 2008 and since them I contributed to many projects.
+
+My goal is to create useful software by making simplicity and quality my top priorities.
 
 <!--
 **tapsandswipes/tapsandswipes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
